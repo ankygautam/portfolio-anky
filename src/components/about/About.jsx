@@ -16,7 +16,7 @@ const About = () => {
         <div className="about__info">
           <p className="about__description">Welcome to my corner of the web! I'm Ankur Gautam, 
           Greetings! I'm Ankur Gautam, a self-taught front-end developer. I'm on a mission to transform creative ideas into visually stunning and user-friendly websites, one click at a time! </p>
-          <a href="https://drive.google.com/file/d/1AkU9HZrcahd1ZoMol84wXWtRYcUW8Y1U/view?usp=sharing" target='_blank' className="btn">Download CV</a>
+          <a href="https://drive.google.com/file/d/105lEpWxJRgUHoKQ4zp9tyOoDex1Ec6F3/view?usp=sharing" target='_blank' className="btn">Download CV</a>
         </div>
       <div className="about__skills grid">
         <div className='skills__data'>
