@@ -3,7 +3,7 @@ import React from "react";
 const HeaderSocials = () => {
     return(
     <div className="home__socials">
-        <a href="https://github.com/gitfacepuller" className="home__social-link" target= "_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ankygautam" className="home__social-link" target= "_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-github"></i>
         </a>
 
